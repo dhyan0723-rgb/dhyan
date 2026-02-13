@@ -1,0 +1,4 @@
+# Python Dependencies
+
+# Example dependency
+# requests==2.26.0
